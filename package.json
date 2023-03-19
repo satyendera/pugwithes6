@@ -1,6 +1,6 @@
 {
   "name": "pug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Boilerplate Pug with ES6",
   "main": "index.js",
   "license": "MIT",
